@@ -4,6 +4,5 @@ public class Class1 {
         System.out.println("First git note");
         System.out.println("Second note");
         System.out.println("git stash");
-
     }
 }
